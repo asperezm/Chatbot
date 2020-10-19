@@ -1,0 +1,14 @@
+<preguntas>
+quiero una orientacion
+solicito una orientacion
+necesito una orientacion
+pido una orientacion
+para saber sobre orientacion
+pueden guiarme
+necesito un guia
+estoy perdido
+ayudenmen con un guia
+ayudenmen con una orientacion 
+orientacion
+<respuestas>
+usted eligio Orientación

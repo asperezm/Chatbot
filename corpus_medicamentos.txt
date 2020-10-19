@@ -1,0 +1,17 @@
+<preguntas>
+necesito unos medicamentos
+quiero unos medicamentos
+solicito unos medicamentos
+para pedir unos medicamentos
+deme unos medicamentos
+reclamar medicamentos
+reclamar unos medicamentos
+solicito reclamar unos medicamentos
+necesito reclamar unos medicamentos
+quiero mis medicamentos
+ayudeme con los medicamentos
+solicito medicamentos
+vengo por mis medicamentos
+medicamentos
+<respuestas>
+usted eligio medicamentos

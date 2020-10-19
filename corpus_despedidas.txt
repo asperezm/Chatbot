@@ -1,0 +1,19 @@
+<preguntas>
+Gracias
+Muchas Gracias
+Hasta pronto
+Genial, Gracias
+Genial
+Es todo, Gracias
+Hasta luego
+Adios
+Bye
+See you
+Nos vemos
+bye amigo
+<respuestas>
+Fue un placer servirlo
+Hasta pronto
+Te espero de nuevo
+Bye
+Hasta luego

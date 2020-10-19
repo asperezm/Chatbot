@@ -1,0 +1,19 @@
+<preguntas>
+necesito una cita
+solicito una cita
+quiero una cita
+cita
+citas
+puede brindarme una cita?
+ayudeme con una cita
+para pedir una cita
+pedir una cita
+puede darme una cita
+colaboreme con una cita
+hay citas?
+hay cita?
+hola, quiero una cita 
+dame una cita
+demen una cita 
+<respuestas>
+Usted solicito una cita

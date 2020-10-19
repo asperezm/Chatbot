@@ -1,0 +1,13 @@
+<preguntas>
+Necesito una urgencia
+auxilio
+socorro 
+es una urgencia
+solicito una urgencia
+urgencia
+urgencias
+para pedir una urgencia
+para una urgencia
+ayuda urgente
+<respuestas>
+Usted solicito una urgencia

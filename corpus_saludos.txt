@@ -1,0 +1,29 @@
+<preguntas>
+Hola
+hola
+Buenos días
+Buenas tardes
+hola buenas tardes
+hola busnos dias
+hola buenas noches 
+Buenas noches
+Buenas
+Cómo esta?
+Cómo esta
+Como esta?
+Como esta
+Te necesito
+Necesito
+hola amigo
+oeeee
+oe
+eeeeooo
+que tal
+<respuestas>
+Hola
+Buenos días
+Buenas tardes
+Buenas noches
+Cómo esta?
+En qué te puedo ayudar
+Que alegria saber de usted
